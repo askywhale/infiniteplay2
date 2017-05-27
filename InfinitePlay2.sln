@@ -1,0 +1,56 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinitePlay2", "InfinitePlay2\InfinitePlay2.csproj", "{A4B91A35-541E-49B0-8F74-E94658FC6A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awele", "Awele\Awele.csproj", "{B87400C7-7E21-45A3-8C2E-23E302CAE372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveColors", "FiveColors\FiveColors.csproj", "{029D7D3D-3E1E-4A65-B69C-524931F0A9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draughts", "Draughts\Draughts.csproj", "{101160A7-4B26-4165-BC63-CE6628422340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChineseCheckers", "ChineseCheckers\ChineseCheckers.csproj", "{58F5EB1A-B65E-4749-B389-E3F1C8946F12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planetoid", "Planetoid\Planetoid.csproj", "{2523CEDB-2327-46C7-B36E-0FC69CD386A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeepleBattle", "MeepleBattle\MeepleBattle.csproj", "{09A5A833-056D-4AB6-9A01-3C9C79B1AEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4B91A35-541E-49B0-8F74-E94658FC6A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B91A35-541E-49B0-8F74-E94658FC6A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B91A35-541E-49B0-8F74-E94658FC6A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B91A35-541E-49B0-8F74-E94658FC6A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87400C7-7E21-45A3-8C2E-23E302CAE372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87400C7-7E21-45A3-8C2E-23E302CAE372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87400C7-7E21-45A3-8C2E-23E302CAE372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87400C7-7E21-45A3-8C2E-23E302CAE372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029D7D3D-3E1E-4A65-B69C-524931F0A9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029D7D3D-3E1E-4A65-B69C-524931F0A9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029D7D3D-3E1E-4A65-B69C-524931F0A9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029D7D3D-3E1E-4A65-B69C-524931F0A9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101160A7-4B26-4165-BC63-CE6628422340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101160A7-4B26-4165-BC63-CE6628422340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101160A7-4B26-4165-BC63-CE6628422340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101160A7-4B26-4165-BC63-CE6628422340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F5EB1A-B65E-4749-B389-E3F1C8946F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F5EB1A-B65E-4749-B389-E3F1C8946F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F5EB1A-B65E-4749-B389-E3F1C8946F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F5EB1A-B65E-4749-B389-E3F1C8946F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2523CEDB-2327-46C7-B36E-0FC69CD386A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2523CEDB-2327-46C7-B36E-0FC69CD386A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2523CEDB-2327-46C7-B36E-0FC69CD386A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2523CEDB-2327-46C7-B36E-0FC69CD386A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A5A833-056D-4AB6-9A01-3C9C79B1AEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A5A833-056D-4AB6-9A01-3C9C79B1AEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A5A833-056D-4AB6-9A01-3C9C79B1AEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A5A833-056D-4AB6-9A01-3C9C79B1AEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,116 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "5couleurs"=.\5couleurs\5couleurs.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "alphabeta"=.\alphabeta\alphabeta.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "awele"=.\awele\awele.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "chineseCheckers"=.\chineseCheckers\chineseCheckers.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "draughts"=.\draughts\draughts.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "infinitePlay"=.\infinitePlay.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name draughts
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name 5couleurs
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name awele
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name chineseCheckers
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name alphabeta
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "minmax2"=.\minmax2\minmax2.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

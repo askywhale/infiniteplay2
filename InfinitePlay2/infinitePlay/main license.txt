@@ -1,0 +1,200 @@
+INFINITEPLAY LICENSE AGREEMENT
+
+BY CLICKING THE I AGREE BUTTON OR INSTALLING OR USING THE
+INFINITEPLAY SOFTWARE, YOU CONSENT ON BEHALF OF YOURSELF
+AND THE ENTITY YOU REPRESENT TO BE BOUND BY, AND BECOME A
+PARTY TO, THIS AGREEMENT AS THE "LICENSEE."  IF YOU DO NOT
+AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, YOU MUST 
+SELECT THE CANCEL BUTTON, YOU MUST NOT INSTALL OR USE THE
+SOFTWARE, AND YOU DO NOT BECOME A LICENSEE UNDER THIS 
+AGREEMENT.
+
+1. LICENSE GRANT.  Askywhale grants Licensee a 
+free-of-charge, personal, non-exclusive, and non-transferable 
+license to install and use the executable code version of InfinitePlay
+and any accompanying components, plug-ins, skins, 
+and documentation ( collectively, the "Product"), subject to 
+Licensee's compliance with the terms and conditions of this 
+Agreement.  This license does not entitle Licensee to receive from 
+Askywhale hard-copy documentation, technical support, telephone 
+assistance, or enhancements or updates to the Product. 
+
+2. LIMITATIONS ON USE.  Except with Askywhale's prior written 
+consent or as otherwise expressly permitted in this Agreement, 
+Licensee may not: (i) modify or create any derivative works of the 
+Product; (ii) decompile, disassemble, reverse engineer, or 
+otherwise attempt to derive the source code for the Product 
+(except to the extent applicable laws specifically prohibit such 
+restriction); (iii) redistribute, encumber, sell, rent, lease, 
+sublicense, or otherwise transfer rights to the Product; 
+(iv) remove or alter any trademark, logo, copyright or other 
+proprietary notices, legends, symbols or labels in the Product; or 
+(v) publish any results of benchmark tests run on the Product to a 
+third party.  Plug-ins, product components, and skins provided 
+with or as part of the Product may be used only with the Product 
+and not on a standalone basis or with any other product.
+
+3. LICENSEE REPRESENTATIONS.  Licensee represents and warrants 
+that it has the legal capacity to enter into this Agreement, that 
+it will use the Product only for lawful purposes and in accordance 
+with this Agreement, and that it will not use the Product to 
+violate any law, regulation or ordinance or any right of Askywhale 
+or any third party, including without limitation, any right of 
+privacy, publicity, copyright, trademark, or patent.
+
+4. TERMINATION.  Should Licensee breach this Agreement, Licensee's 
+right to use the Product shall terminate immediately and without 
+notice.  Licensee may also terminate this Agreement by simply 
+discontinuing use of the Product.  In the event of any termination 
+of this Agreement, the restrictions on use set forth in Paragraph 
+2 ("Limitations on Use"), as well as Paragraphs 3 through 14 shall 
+survive such termination and Licensee agrees to continue to be 
+bound by those terms.  Upon termination, Licensee shall destroy 
+all copies of the Product.
+
+5. PROPRIETARY RIGHTS.  Title, ownership rights, and intellectual 
+property rights in the Product shall remain in Askywhale and/or its 
+suppliers.  Licensee acknowledges such ownership and intellectual 
+property rights and will not take any action to jeopardize, limit 
+or interfere in any manner with Askywhale's or its suppliers' 
+ownership of or rights with respect to the Product.  The Product 
+is protected by copyright and other intellectual property laws and 
+by international treaties.  All trademarks used in connection with 
+the Product are owned by Askywhale, its affiliates or its 
+suppliers, and no license to use any such trademarks is provided 
+hereunder.  Title and related rights in the content accessed 
+through the Product are the property of the applicable content 
+owner and are protected by applicable law.  The license granted 
+under this Agreement gives Licensee no rights in or to such 
+content.
+
+6. USE AND AVAILABILITY OF OPEN SOURCE CODE.  Portions of the 
+Product use software components developed through various open 
+source projects.  The licenses and availability of source code for 
+such components are specified in the copyright notice file 
+delivered with this Product.
+
+7. INDEMINIFICATION.  Licensee agrees to indemnify, hold harmless, 
+and at Askywhale's request and its expense, to defend Askywhale and 
+its affiliates from any and all costs, damages and reasonable 
+attorneys' fees resulting from any claim that Licensee's use of 
+the Product has injured or otherwise violated any right of any 
+third party or violates any law.
+
+8. DISCLAIMER OF WARRANTY.  THE PRODUCT IS PROVIDED FREE
+OF CHARGE AND ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION
+THE WARRANTIES THAT THE PRODUCT IS FREE OF DEFECTS, VIRUS
+FREE, ABLE TO OPERATE ON AN UNINTERRUPTED BASIS, 
+MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING,
+UNLESS SUCH WARRANTIES ARE LEGALLY INCAPABLE OF EXCLUSION.
+LICENSOR AND ITS SUPPLIERS HAVE NO LIABILITY WITH RESPECT 
+TO USE OF THE PRODUCT.  LICENSEE ASSUMES THE ENTIRE RISK 
+AS TO THE QUALITY AND PERFORMANCE OF THE PRODUCT, INCLUDING
+THE ENTIRE COST OF ANY SERVICE AND REPAIR.  THIS DISCLAIMER
+OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS 
+AGREEMENT.  NO USE OF THE PRODUCT IS AUTHORIZED HEREUNDER
+EXCEPT UNDER THIS DISCLAIMER.
+
+9. LIMITATION OF LIABILITY.  TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL ASKYWHALE, 
+AMERICA ONLINE, INC., NETSCAPE COMMUNICATIONS CORPORATION,
+OR THEIR RESPECTIVE PARENTS, AFFILIATES, DIRECTORS, 
+EMPLOYEES, DISTRIBUTORS, SUPPLIERS, AGENTS OR RESELLERS 
+(COLLECTIVELY, THE "ASKYWHALE GROUP") BE LIABLE FOR ANY 
+INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY 
+DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THIS
+AGREEMENT, INCLUDING, BUT NOT LIMITED TO LOST PROFITS, 
+LOST DATA, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE
+OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR 
+LOSSES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE 
+POSSIBILITY THEREOF.  IN ANY CASE, THE ASKYWHALE GROUP'S 
+ENTIRE COLLECTIVE LIABILITY UNDER ANY PROVISION OF THIS 
+AGREEMENT SHALL NOT EXCEED IN THE AGGREGATE THE SUM OF THE 
+FEES LICENSEE PAID FOR THIS LICENSE (IF ANY) AND FEES FOR 
+SUPPORT OF THE PRODUCT RECEIVED BY ASKYWHALE UNDER A 
+SEPARATE SUPPORT AGREEMENT (IF ANY) AND REPLACEMENT OF 
+DEFECTIVE MEDIA OR PROVISION OF A REASONABLY SIMILAR 
+PRODUCT, AS DETERMINED AT ASKYWHALE'S SOLE DISCRETION, WITH 
+THE EXCEPTION OF DEATH OR PERSONAL INJURY CAUSED BY THE 
+NEGLIGENCE OF ASKYWHALE TO THE EXTENT APPLICABLE LAW 
+PROHIBITS THE LIMITATION OF DAMAGES IN SUCH CASES.  SOME 
+JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF 
+INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES, SO THIS 
+EXCLUSION AND LIMITATION MAY NOT BE APPLICABLE.  
+ADDITIONALLY, THE ASKYWHALE GROUP SHALL NOT BE LIABLE FOR 
+ANY CLAIMS OR DAMAGES ARISING OUT OF: (I) CONTENT PROVIDED 
+BY LICENSEE OR A THIRD PARTY THAT IS ACCESSED THROUGH THE 
+PRODUCT AND/OR ANY MATERIAL LINKED THROUGH SUCH CONTENT; 
+OR (II) THE USE OF PLUG-INS, COMPONENTS OR SKINS DEVELOPED 
+BY THIRD PARTIES AND MADE AVAILABLE ON ASKYWHALE'S WEBSITE 
+FOR USE WITH THE PRODUCT.  
+
+10. EXPORT CONTROL.  Licensee agrees to comply with all export and 
+import laws and restrictions and regulations of any United States 
+or foreign agency or authority, and not to export or re-export the 
+Product or any direct product thereof in violation of any such 
+restrictions, laws or regulations, or without all necessary 
+authorizations.  For example, Licensee shall not export or re-
+export any commodities, software, or technical data received from 
+Askywhale, or any direct product of such commodities, software or 
+technical data, to any proscribed country, party, or entity listed 
+in the applicable laws, regulations, and rules of the U.S. 
+Government unless properly authorized.  As applicable, each party 
+shall obtain and bear all expenses relating to any necessary 
+licenses and/or exemptions with respect to its own export of the 
+Product from the U.S.
+
+11. HIGH RISK ACTIVITIES.  The Product is not fault-tolerant and 
+is not designed, manufactured or intended for use in environments 
+in which its failure could lead directly to death, personal 
+injury, or severe physical or environmental damage, such as in the 
+operation of nuclear facilities, aircraft navigation or 
+communication systems, air traffic control, direct life support 
+machines, or weapons systems ("High Risk Activities").  
+ACCORDINGLY, ASKYWHALE AND ITS SUPPLIERS SPECIFICALLY DISCLAIM ANY 
+EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.  
+LICENSEE AGREES THAT ASKYWHALE AND ITS SUPPLIERS WILL NOT BE LIABLE 
+FOR ANY CLAIMS OR DAMAGES ARISING FROM THE USE OF THE PRODUCT IN 
+SUCH APPLICATIONS.
+
+12. INJUNCTIVE RELIEF.  Licensee acknowledges and agrees that, 
+notwithstanding any other provisions of this Agreement, any breach or 
+threatened breach of this Agreement by Licensee shall cause Askywhale 
+irreparable damage for which recovery of money damages would be 
+inadequate and that askywhale therefore may seek and obtain timely 
+injunctive relief to protect its rights under this Agreement in addition 
+to any and all other remedies available at law or in equity.  
+
+13. U.S. GOVERNMENT END USERS.  The Product is a "commercial 
+item," as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), 
+consisting of "commercial computer software" and "commercial 
+computer software documentation," as such terms are used in 48 
+C.F.R. 12.212 (Sept. 1995).  Consistent with48 C.F.R. 12.212 and 
+48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995),all U.S. 
+Government End Users acquire the Product with only those rights 
+set forth herein.
+
+14. MISCELLANEOUS.  (a) Except to the extent applicable law, if 
+any, provides otherwise, this Agreement shall be governed by the 
+laws of France, excluding its conflict of law provisions.  
+(b) Licensee expressly agrees that 
+jurisdiction for any claim or dispute relating to or arising out 
+of this Agreement resides in the courts of the Commonwealth of 
+Virginia and Licensee expressly consents to the exercise of 
+personal jurisdiction therein.  (c) This Agreement shall not be 
+governed by the United Nations Convention on Contracts for the 
+International Sale of Goods.  (d) If a court should hold any 
+provision of this Agreement invalid or unenforceable, such 
+provision shall be modified to the extent necessary to render it 
+enforceable without losing its intent, or severed from this 
+Agreement if no such modification is possible, and other 
+provisions shall remain in full force and effect.  (e) A waiver by 
+either party of any term or condition of this Agreement or any 
+breach thereof, in any one instance, shall not waive such term or 
+condition or any subsequent breach thereof.  (f) Licensee may not 
+assign or otherwise transfer by operation of law or otherwise this 
+Agreement or any rights or obligations herein.  Askywhale may 
+assign this Agreement to any entity at its sole discretion.  
+(g) This Agreement shall be binding upon and shall inure to the 
+benefit of the parties, their successors and permitted assigns.  

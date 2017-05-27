@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{09A5A833-056D-4AB6-9A01-3C9C79B1AEBC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MeepleBattle</RootNamespace>
+    <AssemblyName>MeepleBattle</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MeepleBattleGame.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InfinitePlay2\InfinitePlay2.csproj">
+      <Project>{A4B91A35-541E-49B0-8F74-E94658FC6A8E}</Project>
+      <Name>TestDrawing</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="img\board.jpeg">
+      <CustomToolNamespace>MeepleBattle</CustomToolNamespace>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="img\0-0.png" />
+    <EmbeddedResource Include="img\0-1.png" />
+    <EmbeddedResource Include="img\0-2.png" />
+    <EmbeddedResource Include="img\0-3.png" />
+    <EmbeddedResource Include="img\0-4.png" />
+    <EmbeddedResource Include="img\0-5.png" />
+    <EmbeddedResource Include="img\0-6.png" />
+    <EmbeddedResource Include="img\0-7.png" />
+    <EmbeddedResource Include="img\1-0.png" />
+    <EmbeddedResource Include="img\1-1.png" />
+    <EmbeddedResource Include="img\1-2.png" />
+    <EmbeddedResource Include="img\1-3.png" />
+    <EmbeddedResource Include="img\1-4.png" />
+    <EmbeddedResource Include="img\1-5.png" />
+    <EmbeddedResource Include="img\1-6.png" />
+    <EmbeddedResource Include="img\1-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="img\0-s.png" />
+    <EmbeddedResource Include="img\1-s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="img\possible.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
