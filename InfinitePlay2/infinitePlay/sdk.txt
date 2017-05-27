@@ -1,7 +1,0 @@
-SDK of InfinitePlay
-===================
-
-This installation should be done in the main directory of InfinitePlay
-
-This file contains .cpp and .h files of four examples.
-It contains also projects and workspace for Visual C++ 6 ((c) Microsoft Corp.).
